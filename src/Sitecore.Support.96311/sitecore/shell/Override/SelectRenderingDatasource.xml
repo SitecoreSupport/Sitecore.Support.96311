@@ -21,7 +21,7 @@
         }
         }
       </Script>
-      <CodeBeside Type="Sitecore.Support.Buckets.Forms.SelectRenderingDatasourceForm, Sitecore.Support.440114"/>
+      <CodeBeside Type="Sitecore.Support.Shell.Applications.Dialogs.SelectRenderingDatasource.SelectRenderingDatasourceForm, Sitecore.Support.96311"/>
       <DataContext ID="DataContext" Root="/"/>
       <Border ID="Warnings" Class="scWarning" Visible="false"  def:placeholder="Toolbar">
         <ThemedImage Src="/sitecore/shell/themes/standard/Images/warning_yellow.png" />
